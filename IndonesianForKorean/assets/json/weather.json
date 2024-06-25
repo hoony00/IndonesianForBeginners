@@ -1,0 +1,62 @@
+{
+  "beginner": [
+    {"indonesian": "cerah", "korean": "맑음"},
+    {"indonesian": "hujan", "korean": "비"},
+    {"indonesian": "berawan", "korean": "흐림"},
+    {"indonesian": "panas", "korean": "더움"},
+    {"indonesian": "dingin", "korean": "추움"},
+    {"indonesian": "angin", "korean": "바람"},
+    {"indonesian": "salju", "korean": "눈"},
+    {"indonesian": "lembab", "korean": "습함"},
+    {"indonesian": "kering", "korean": "건조함"},
+    {"indonesian": "badai", "korean": "폭풍"}
+  ],
+  "intermediate": [
+    {"indonesian": "cuaca", "korean": "날씨"},
+    {"indonesian": "ramalan cuaca", "korean": "일기 예보"},
+    {"indonesian": "musim", "korean": "계절"},
+    {"indonesian": "suhu", "korean": "온도"},
+    {"indonesian": "kelembapan", "korean": "습도"},
+    {"indonesian": "tekanan udara", "korean": "기압"},
+    {"indonesian": "angin kencang", "korean": "강풍"},
+    {"indonesian": "gelombang panas", "korean": "폭염"},
+    {"indonesian": "kabut", "korean": "안개"},
+    {"indonesian": "cuaca buruk", "korean": "악천후"}
+  ],
+  "advanced": [
+    {"indonesian": "perubahan iklim", "korean": "기후 변화"},
+    {"indonesian": "fenomena alam", "korean": "자연 현상"},
+    {"indonesian": "depresi tropis", "korean": "열대성 저기압"},
+    {"indonesian": "siklon", "korean": "사이클론"},
+    {"indonesian": "antisiklon", "korean": "반사이클론"},
+    {"indonesian": "efek rumah kaca", "korean": "온실 효과"},
+    {"indonesian": "lapisan ozon", "korean": "오존층"},
+    {"indonesian": "pemanasan global", "korean": "지구 온난화"},
+    {"indonesian": "keadaan atmosfer", "korean": "대기 상태"},
+    {"indonesian": "prakiraan cuaca", "korean": "기상 예측"}
+  ],
+  "basic_sentences": [
+    {"indonesian": "Bagaimana cuaca hari ini?", "korean": "오늘 날씨가 어때요?"},
+    {"indonesian": "Apakah hari ini akan hujan?", "korean": "오늘 비가 올까요?"},
+    {"indonesian": "Cuacanya sangat panas hari ini.", "korean": "오늘 날씨가 너무 더워요."},
+    {"indonesian": "Besok akan cerah sepanjang hari.", "korean": "내일 하루 종일 맑을 거예요."},
+    {"indonesian": "Suhunya berapa sekarang?", "korean": "지금 온도가 몇 도에요?"},
+    {"indonesian": "Saya mendengar ada badai yang datang.", "korean": "폭풍이 온다고 들었어요."},
+    {"indonesian": "Apakah suhu akan turun malam ini?", "korean": "오늘 밤에 온도가 내려갈까요?"},
+    {"indonesian": "Ada kabut tebal pagi ini.", "korean": "오늘 아침에 안개가 짙어요."},
+    {"indonesian": "Apakah angin kencang hari ini?", "korean": "오늘 바람이 강해요?"},
+    {"indonesian": "Bagaimana cuaca di musim dingin di sini?", "korean": "여기 겨울 날씨는 어때요?"}
+  ],
+  "advanced_sentences": [
+    {"indonesian": "Bagaimana dampak perubahan iklim di daerah ini?", "korean": "이 지역의 기후 변화 영향은 어떻게 되나요?"},
+    {"indonesian": "Apakah efek rumah kaca mempengaruhi cuaca?", "korean": "온실 효과가 날씨에 영향을 미치나요?"},
+    {"indonesian": "Seberapa akurat prakiraan cuaca untuk minggu ini?", "korean": "이번 주 일기 예보는 얼마나 정확한가요?"},
+    {"indonesian": "Apa yang menyebabkan gelombang panas ini?", "korean": "이 폭염의 원인은 무엇인가요?"},
+    {"indonesian": "Bagaimana kondisi atmosfer saat ini?", "korean": "현재 대기 상태는 어떤가요?"},
+    {"indonesian": "Apakah ada ancaman siklon di wilayah ini?", "korean": "이 지역에 사이클론 위협이 있나요?"},
+    {"indonesian": "Bagaimana kondisi cuaca ekstrem mempengaruhi pertanian?", "korean": "극한 날씨가 농업에 어떤 영향을 미치나요?"},
+    {"indonesian": "Apakah lapisan ozon mengalami kerusakan?", "korean": "오존층이 손상되었나요?"},
+    {"indonesian": "Bagaimana cara mempersiapkan diri menghadapi cuaca buruk?", "korean": "악천후에 대비하는 방법은 무엇인가요?"},
+    {"indonesian": "Bagaimana pemanasan global mempengaruhi pola cuaca?", "korean": "지구 온난화가 날씨 패턴에 어떤 영향을 미치나요?"}
+  ]
+}

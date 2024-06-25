@@ -1,0 +1,62 @@
+{
+  "beginner": [
+    {"indonesian": "di mana", "korean": "어디에"},
+    {"indonesian": "jalan", "korean": "길"},
+    {"indonesian": "kanan", "korean": "오른쪽"},
+    {"indonesian": "kiri", "korean": "왼쪽"},
+    {"indonesian": "depan", "korean": "앞"},
+    {"indonesian": "belakang", "korean": "뒤"},
+    {"indonesian": "jauh", "korean": "멀리"},
+    {"indonesian": "dekat", "korean": "가까이"},
+    {"indonesian": "tanda", "korean": "표지판"},
+    {"indonesian": "peta", "korean": "지도"}
+  ],
+  "intermediate": [
+    {"indonesian": "perempatan", "korean": "교차로"},
+    {"indonesian": "belokan", "korean": "코너"},
+    {"indonesian": "lampu lalu lintas", "korean": "신호등"},
+    {"indonesian": "jalan tol", "korean": "고속도로"},
+    {"indonesian": "bundaran", "korean": "로터리"},
+    {"indonesian": "perlintasan", "korean": "건널목"},
+    {"indonesian": "jalur", "korean": "차선"},
+    {"indonesian": "trotuar", "korean": "보도"},
+    {"indonesian": "jalan layang", "korean": "고가도로"},
+    {"indonesian": "lorong", "korean": "복도"}
+  ],
+  "advanced": [
+    {"indonesian": "kebijakan lalu lintas", "korean": "교통 정책"},
+    {"indonesian": "pembangunan infrastruktur", "korean": "인프라 구축"},
+    {"indonesian": "optimalisasi", "korean": "최적화"},
+    {"indonesian": "integrasi", "korean": "통합"},
+    {"indonesian": "aksesibilitas", "korean": "접근성"},
+    {"indonesian": "pengembangan", "korean": "개발"},
+    {"indonesian": "rekayasa lalu lintas", "korean": "교통 공학"},
+    {"indonesian": "konektivitas", "korean": "연결성"},
+    {"indonesian": "transportasi umum", "korean": "대중교통"},
+    {"indonesian": "pengaturan lalu lintas", "korean": "교통 관리"}
+  ],
+  "basic_sentences": [
+    {"indonesian": "Di mana letak toilet?", "korean": "화장실이 어디에 있나요?"},
+    {"indonesian": "Bisakah Anda membantu saya menemukan hotel ini?", "korean": "이 호텔을 찾는 데 도움을 주실 수 있나요?"},
+    {"indonesian": "Saya tersesat, bisa beri tahu arah?", "korean": "길을 잃었는데, 방향을 알려주실 수 있나요?"},
+    {"indonesian": "Apakah ini jalan menuju ke stasiun?", "korean": "이 길이 역으로 가는 길인가요?"},
+    {"indonesian": "Di mana letak pintu keluar?", "korean": "출구가 어디에 있나요?"},
+    {"indonesian": "Saya sedang mencari restoran ini", "korean": "이 식당을 찾고 있어요"},
+    {"indonesian": "Bisa beri tahu saya di mana toko buku?", "korean": "서점이 어디에 있는지 알려주실 수 있나요?"},
+    {"indonesian": "Apakah saya berada di jalan yang benar?", "korean": "제가 맞는 길에 있는 건가요?"},
+    {"indonesian": "Berapa jarak dari sini ke bandara?", "korean": "여기서 공항까지의 거리는 얼마나 되나요?"},
+    {"indonesian": "Bisa tunjukkan saya rute di peta?", "korean": "지도로 경로를 보여주실 수 있나요?"}
+  ],
+  "advanced_sentences": [
+    {"indonesian": "Apa cara tercepat untuk sampai ke tempat ini?", "korean": "이곳에 가는 가장 빠른 방법은 무엇인가요?"},
+    {"indonesian": "Apakah ada jalan pintas ke tujuan kita?", "korean": "우리 목적지로 가는 지름길이 있나요?"},
+    {"indonesian": "Bagaimana kondisi lalu lintas di jalan utama?", "korean": "주요 도로의 교통 상황은 어떤가요?"},
+    {"indonesian": "Saya mencari tempat parkir yang aman", "korean": "안전한 주차장을 찾고 있어요"},
+    {"indonesian": "Berapa lama waktu yang dibutuhkan untuk berjalan ke sana?", "korean": "거기까지 걸어가는데 얼마나 걸리나요?"},
+    {"indonesian": "Tolong beri tahu saya rute terbaik dengan mobil", "korean": "자동차로 가는 최상의 경로를 알려주세요"},
+    {"indonesian": "Apakah ada stasiun pengisian bahan bakar di dekat sini?", "korean": "이 근처에 주유소가 있나요?"},
+    {"indonesian": "Bisa beri saya petunjuk yang lebih rinci?", "korean": "좀 더 상세한 지시를 주실 수 있나요?"},
+    {"indonesian": "Saya membutuhkan petunjuk arah ke pusat perbelanjaan", "korean": "쇼핑몰로 가는 방향을 알고 싶어요"},
+    {"indonesian": "Apakah ada tempat wisata menarik di sekitar sini?", "korean": "이 근처에 흥미로운 관광지가 있나요?"}
+  ]
+}

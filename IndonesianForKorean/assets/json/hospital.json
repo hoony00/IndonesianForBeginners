@@ -1,0 +1,62 @@
+{
+  "beginner": [
+    {"indonesian": "dokter", "korean": "의사"},
+    {"indonesian": "perawat", "korean": "간호사"},
+    {"indonesian": "rumah sakit", "korean": "병원"},
+    {"indonesian": "klinik", "korean": "클리닉"},
+    {"indonesian": "obat", "korean": "약"},
+    {"indonesian": "resep", "korean": "처방전"},
+    {"indonesian": "periksa", "korean": "검사하다"},
+    {"indonesian": "ruang tunggu", "korean": "대기실"},
+    {"indonesian": "ruang gawat darurat", "korean": "응급실"},
+    {"indonesian": "jadwal", "korean": "일정"}
+  ],
+  "intermediate": [
+    {"indonesian": "janji temu", "korean": "예약"},
+    {"indonesian": "diagnosis", "korean": "진단"},
+    {"indonesian": "perawatan", "korean": "치료"},
+    {"indonesian": "operasi", "korean": "수술"},
+    {"indonesian": "gejala", "korean": "증상"},
+    {"indonesian": "infeksi", "korean": "감염"},
+    {"indonesian": "penyakit", "korean": "질병"},
+    {"indonesian": "kesehatan", "korean": "건강"},
+    {"indonesian": "rawat inap", "korean": "입원"},
+    {"indonesian": "rawat jalan", "korean": "외래진료"}
+  ],
+  "advanced": [
+    {"indonesian": "konsultasi medis", "korean": "의료 상담"},
+    {"indonesian": "pemulihan", "korean": "회복"},
+    {"indonesian": "penelitian medis", "korean": "의료 연구"},
+    {"indonesian": "rehabilitasi", "korean": "재활"},
+    {"indonesian": "perawatan intensif", "korean": "중환자 치료"},
+    {"indonesian": "asuransi kesehatan", "korean": "건강 보험"},
+    {"indonesian": "rekam medis", "korean": "의료 기록"},
+    {"indonesian": "pencegahan", "korean": "예방"},
+    {"indonesian": "anestesi", "korean": "마취"},
+    {"indonesian": "patologi", "korean": "병리학"}
+  ],
+  "basic_sentences": [
+    {"indonesian": "Saya perlu bertemu dokter.", "korean": "의사를 만나야 해요."},
+    {"indonesian": "Apakah ada dokter yang bisa berbahasa Inggris?", "korean": "영어를 할 줄 아는 의사가 있나요?"},
+    {"indonesian": "Saya merasa sakit di sini.", "korean": "여기가 아파요."},
+    {"indonesian": "Bisa saya mendapatkan resep?", "korean": "처방전을 받을 수 있을까요?"},
+    {"indonesian": "Berapa biaya konsultasi?", "korean": "상담 비용이 얼마인가요?"},
+    {"indonesian": "Saya butuh bantuan medis segera.", "korean": "긴급 의료 지원이 필요해요."},
+    {"indonesian": "Apakah saya perlu rawat inap?", "korean": "입원이 필요한가요?"},
+    {"indonesian": "Kapan hasil tes saya keluar?", "korean": "제 검사 결과는 언제 나올까요?"},
+    {"indonesian": "Bisa saya buat janji temu?", "korean": "예약을 할 수 있을까요?"},
+    {"indonesian": "Di mana apotek terdekat?", "korean": "가장 가까운 약국이 어디인가요?"}
+  ],
+  "advanced_sentences": [
+    {"indonesian": "Saya punya alergi terhadap obat tertentu.", "korean": "저는 특정 약물에 알레르기가 있어요."},
+    {"indonesian": "Apakah operasi ini berisiko tinggi?", "korean": "이 수술은 위험이 큰가요?"},
+    {"indonesian": "Berapa lama waktu pemulihan setelah operasi?", "korean": "수술 후 회복 기간은 얼마나 되나요?"},
+    {"indonesian": "Saya membutuhkan terapi fisik.", "korean": "물리 치료가 필요해요."},
+    {"indonesian": "Apakah ada program pencegahan penyakit?", "korean": "질병 예방 프로그램이 있나요?"},
+    {"indonesian": "Saya ingin berkonsultasi tentang asuransi kesehatan.", "korean": "건강 보험에 대해 상담하고 싶어요."},
+    {"indonesian": "Apakah saya bisa melihat rekam medis saya?", "korean": "제 의료 기록을 볼 수 있을까요?"},
+    {"indonesian": "Apa langkah berikutnya setelah diagnosis ini?", "korean": "이 진단 후 다음 단계는 무엇인가요?"},
+    {"indonesian": "Apakah saya perlu anestesi?", "korean": "마취가 필요한가요?"},
+    {"indonesian": "Bisa saya dapatkan opini kedua?", "korean": "다른 의사의 소견을 받을 수 있을까요?"}
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "beginner": [
+    {"indonesian": "toko", "korean": "가게"},
+    {"indonesian": "belanja", "korean": "쇼핑"},
+    {"indonesian": "barang", "korean": "물건"},
+    {"indonesian": "harga", "korean": "가격"},
+    {"indonesian": "diskon", "korean": "할인"},
+    {"indonesian": "uang", "korean": "돈"},
+    {"indonesian": "membayar", "korean": "지불하다"},
+    {"indonesian": "kasir", "korean": "계산대"},
+    {"indonesian": "keranjang", "korean": "장바구니"},
+    {"indonesian": "kantong belanja", "korean": "쇼핑백"}
+  ],
+  "intermediate": [
+    {"indonesian": "penawaran", "korean": "제안"},
+    {"indonesian": "kartu kredit", "korean": "신용카드"},
+    {"indonesian": "kartu debit", "korean": "직불카드"},
+    {"indonesian": "kembalian", "korean": "거스름돈"},
+    {"indonesian": "kwitansi", "korean": "영수증"},
+    {"indonesian": "penukaran", "korean": "교환"},
+    {"indonesian": "pengembalian", "korean": "환불"},
+    {"indonesian": "pelanggan", "korean": "고객"},
+    {"indonesian": "etalase", "korean": "진열장"},
+    {"indonesian": "pakaian", "korean": "옷"}
+  ],
+  "advanced": [
+    {"indonesian": "manajemen ritel", "korean": "소매 관리"},
+    {"indonesian": "strategi pemasaran", "korean": "마케팅 전략"},
+    {"indonesian": "analisis pasar", "korean": "시장 분석"},
+    {"indonesian": "program loyalitas", "korean": "로열티 프로그램"},
+    {"indonesian": "pelayanan pelanggan", "korean": "고객 서비스"},
+    {"indonesian": "penjualan online", "korean": "온라인 판매"},
+    {"indonesian": "penjualan grosir", "korean": "도매 판매"},
+    {"indonesian": "penjualan eceran", "korean": "소매 판매"},
+    {"indonesian": "promosi penjualan", "korean": "판매 촉진"},
+    {"indonesian": "analisis inventaris", "korean": "재고 분석"}
+  ],
+  "basic_sentences": [
+    {"indonesian": "Berapa harganya?", "korean": "가격이 얼마에요?"},
+    {"indonesian": "Di mana kasir?", "korean": "계산대가 어디에 있나요?"},
+    {"indonesian": "Apakah ada diskon untuk ini?", "korean": "이 제품에 할인이 있나요?"},
+    {"indonesian": "Bisa saya mencoba ini?", "korean": "이거 입어봐도 되나요?"},
+    {"indonesian": "Apakah Anda menerima kartu kredit?", "korean": "신용카드 받나요?"},
+    {"indonesian": "Saya ingin mengembalikan barang ini.", "korean": "이 물건을 반환하고 싶어요."},
+    {"indonesian": "Ada ukuran lain?", "korean": "다른 사이즈 있나요?"},
+    {"indonesian": "Apakah ini ada garansi?", "korean": "이거 보증 있나요?"},
+    {"indonesian": "Di mana saya bisa menemukan pakaian pria?", "korean": "남성 의류는 어디에서 찾을 수 있나요?"},
+    {"indonesian": "Bisa saya mendapatkan kwitansi?", "korean": "영수증을 받을 수 있을까요?"}
+  ],
+  "advanced_sentences": [
+    {"indonesian": "Apakah Anda memiliki program loyalitas pelanggan?", "korean": "고객 로열티 프로그램이 있나요?"},
+    {"indonesian": "Bagaimana kebijakan pengembalian barang di sini?", "korean": "여기 반품 정책은 어떻게 되나요?"},
+    {"indonesian": "Bisa saya bicara dengan manajer toko?", "korean": "매장 매니저와 이야기할 수 있을까요?"},
+    {"indonesian": "Apakah ada promosi penjualan saat ini?", "korean": "현재 판매 촉진 행사가 있나요?"},
+    {"indonesian": "Bisakah Anda membantu saya menemukan barang ini?", "korean": "이 물건 찾는 데 도움을 주실 수 있나요?"},
+    {"indonesian": "Berapa lama garansi produk ini?", "korean": "이 제품의 보증 기간은 얼마나 되나요?"},
+    {"indonesian": "Apakah Anda menyediakan layanan pembungkusan hadiah?", "korean": "선물 포장 서비스를 제공하나요?"},
+    {"indonesian": "Bagaimana cara mendaftar untuk newsletter toko?", "korean": "매장 뉴스레터 신청 방법은 어떻게 되나요?"},
+    {"indonesian": "Bisa Anda beri tahu saya tentang penawaran spesial hari ini?", "korean": "오늘의 특별 제안에 대해 알려주시겠어요?"},
+    {"indonesian": "Apakah produk ini tersedia secara online?", "korean": "이 제품은 온라인에서 구매할 수 있나요?"}
+  ]
+}

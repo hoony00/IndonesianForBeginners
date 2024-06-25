@@ -1,0 +1,143 @@
+name: inde
+description: "인도네시아 단어사전 프로젝트"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# 패키지로 버전 확인 시 이 버전을 따라감
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # storage
+  flutter_secure_storage: ^9.0.0
+  shared_preferences: ^2.2.3
+
+  # 웹 뷰 관련
+  webview_flutter: ^4.4.2
+  webview_flutter_wkwebview:
+  webview_flutter_android:
+
+  # Flutter Community Plus Plugins
+  device_info_plus: ^9.1.0
+  package_info_plus: ^8.0.0
+  connectivity: ^3.0.6
+
+  # splash
+  flutter_native_splash: ^2.3.1
+
+  # 캐쉬 관리
+
+  # ui
+  shimmer: ^3.0.0
+  flutter_spinkit: ^5.2.0
+  another_flushbar: ^1.12.30
+  intl: ^0.19.0
+
+  velocity_x: ^4.1.1
+  logger:
+  go_router: ^13.0.1
+  flutter_screenutil: ^5.9.0
+  email_validator: ^2.1.17
+
+  # 앱 리뷰
+  in_app_review: ^2.0.9
+  easy_localization:
+
+  # ui
+  google_fonts: ^4.0.4
+  flutter_cache_manager: ^3.3.0
+  flutter_svg: ^2.0.3
+
+  # 상태관리
+  flutter_riverpod: ^2.1.3
+
+  # json
+  json_annotation: ^4.9.0
+  freezed_annotation: ^2.2.0
+
+  # 권한
+  permission_handler: ^10.4.3
+
+  # 네트워크
+  dio: ^5.4.3+1
+  http:
+
+  # 드롭다운
+  animated_custom_dropdown: 3.0.0
+  dropdown_button2: ^2.3.9
+
+  # 디바이스 크기별 비교
+  device_preview: ^1.1.0
+
+  # Url 웹 띄워주는 패키지
+  url_launcher: ^6.2.1
+
+
+  # 애니메이션
+  animations: ^2.0.11
+
+  # 바텀 네비게이션
+  awesome_bottom_bar: ^1.2.4
+
+  # 패기한 패키지
+  # awesome_dialog: ^3.2.1
+
+  # 인도네시아어 읽어주기
+  flutter_tts: ^4.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3
+  json_serializable: ^6.6.0
+  freezed: ^2.0.0
+
+flutter:
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/images/svg/
+    - assets/images/png/
+    - assets/splash/
+
+    - assets/json/
+
+  fonts:
+    - family: Chab
+      fonts:
+        - asset: assets/fonts/chab/chab.ttf
+          weight: 700
+
+    - family: Custom_Icons
+      fonts:
+        - asset: assets/fonts/MyFlutterApp.ttf
+
+    - family: Elice_Digital_Baeum
+      fonts:
+        - asset: assets/fonts/elice_digital_baeum/EliceDigitalBaeum_Bold.ttf
+          weight: 700
+        - asset: assets/fonts/elice_digital_baeum/EliceDigitalBaeum_Regular.ttf
+          weight: 400
+
+    - family: Pretendard
+      fonts:
+        - asset: assets/fonts/pretendard/Pretendard-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/pretendard/Pretendard-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/pretendard/Pretendard-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/pretendard/Pretendard-Light.ttf
+          weight: 300
+        - asset: assets/fonts/pretendard/Pretendard-Thin.ttf
+          weight: 100
+
+
+
